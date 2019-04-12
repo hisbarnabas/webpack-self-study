@@ -35,7 +35,11 @@ $ npm install --save lodash
 ```
 $ npx webpack
 
-OR - using configuration file
+OR using configuration file
 
 $ npx webpack --config webpack.config.js
+
+OR using NPM
+
+$ npm run build
 ```
