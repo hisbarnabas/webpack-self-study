@@ -31,3 +31,11 @@ $ npm install --save lodash
     |- index.js
 ```
 
+### Run Webpack
+```
+$ npx webpack
+
+OR - using configuration file
+
+$ npx webpack --config webpack.config.js
+```
